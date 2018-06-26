@@ -12,7 +12,7 @@ a new issue report in this repository or the main *sbpy*
 
 ## Future Workshops
 
-* **European Planetary Science Congress EPSC) 2018** (https://www.epsc2018.eu/), Berlin, Germany: Wednesday, 18:15 to 20:00 (SMW1.8)
+* **European Planetary Science Congress ([EPSC](https://www.epsc2018.eu/)) 2018**, Berlin, Germany: Wednesday, 18:15 to 20:00 (SMW1.8)
 
 
 ## Previous Workshops
