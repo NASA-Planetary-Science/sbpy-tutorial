@@ -1,6 +1,6 @@
 # sbpy Tutorials and Workshops Materials
 
-This repository will provide tutorials and materials used in workshops related to [sbpy](http://sbpy.org)).
+This repository will provide tutorials and materials used in workshops related to [sbpy](http://sbpy.org).
 
 Please make sure that *sbpy* is installed (see installation guide
 [here](http://sbpy.org)) before using these resources.
@@ -12,7 +12,7 @@ a new issue report in this repository or the main *sbpy*
 
 ## Future Workshops
 
-* **European Planetary Science Congress EPSC) 2018**, Berlin, Germany: Wednesday, 18:15 to 20:00 (SMW1.8, https://www.epsc2018.eu/)
+* **European Planetary Science Congress EPSC) 2018** (https://www.epsc2018.eu/), Berlin, Germany: Wednesday, 18:15 to 20:00 (SMW1.8)
 
 
 ## Previous Workshops
