@@ -12,12 +12,12 @@ a new issue report in this repository or the main *sbpy*
 
 ## Future Workshops
 
-* **European Planetary Science Congress ([EPSC](https://www.epsc2018.eu/)) 2018**, Berlin, Germany: Tuesday, September 18 2018, 18:15 to 20:00 (SMW1.8)
-
+* **Division for Planetary Science Meeting ([DPS](https://aas.org/meetings/dps50)) 2018**, Knoxville, Tennessee: Thursday, October 25, 4:30 pm to 7:00 pm (Room 301 D-E)
 
 ## Previous Workshops
 
-none
+* **European Planetary Science Congress ([EPSC](https://www.epsc2018.eu/)) 2018**, Berlin, Germany: Tuesday, September 18 2018, 18:15 to 20:00 (SMW1.8)
+
 
 
 ## Acknowledgements
