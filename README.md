@@ -1,18 +1,10 @@
 # sbpy Tutorials and Workshops Materials
 
-This repository will provide tutorials and materials used in workshops related to [sbpy](http://sbpy.org).
-
-Please make sure that *sbpy* is installed (see installation guide
-[here](http://sbpy.org)) before using these resources.
-
-If you have questions or suggestions, please do not hesitate to create
-a new issue report in this repository or the main *sbpy*
-[repository](http://sbpy.org)).
-
+This repository provide tutorials and materials used in workshops related to [sbpy](http://sbpy.org).
 
 ## Future Workshops
 
-* **European Planetary Science Congress/Division for Planetary Science Joint Meeting ([EPSC/DPS](https://www.epsc-dps2019.eu/)) 2019**, Genève, Switzerland: Tuesday, September 17 2019, 13:30 to 15:00 ([SMW1.22](https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34640), Room Ceres)
+* **European Planetary Science Congress/Division for Planetary Science Joint Meeting ([EPSC/DPS](https://www.epsc-dps2019.eu/)) 2019**, Genève, Switzerland: Tuesday, September 17, 2019, 13:30 to 15:00 ([SMW1.22](https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34640), Room Ceres)
 
 
 ## Previous Workshops
