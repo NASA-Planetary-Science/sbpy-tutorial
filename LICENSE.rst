@@ -1,4 +1,4 @@
-Copyright (c) 2018, sbpy Developers
+Copyright (c) 2018-2022, sbpy Developers
 
 All rights reserved.
 

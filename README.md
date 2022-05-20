@@ -4,7 +4,6 @@ This repository provide tutorials and materials used in workshops related to [sb
 
 ## Future Workshops
 
-
 ## Previous Workshops
 
 * **European Planetary Science Congress/Division for Planetary Science Joint Meeting ([EPSC/DPS](https://www.epsc-dps2019.eu/)) 2019**, Genève, Switzerland: Tuesday, September 17, 2019, 13:30 to 15:00 ([SMW1.22](https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34640), Room Ceres)
@@ -12,7 +11,6 @@ This repository provide tutorials and materials used in workshops related to [sb
 * **Division for Planetary Science Meeting ([DPS](https://aas.org/meetings/dps50)) 2018**, Knoxville, Tennessee: Thursday, October 25, 4:30 pm to 7:00 pm (Room 301 D-E)
 
 * **European Planetary Science Congress ([EPSC](https://www.epsc2018.eu/)) 2018**, Berlin, Germany: Tuesday, September 18 2018, 18:15 to 20:00 (SMW1.8)
-
 
 # List of Notebooks and Examples
 
@@ -24,6 +22,7 @@ This repository contains a number of examples for how to use sbpy. For your conv
 * [Querying asteroid and satellite ephemerides](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Ephem.ipynb) from JPL Horizons and other systems
 * [Computing ephemerides with pyoorb](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Ephem.ipynb)
 * [Querying orbital elements](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Orbit.ipynb) from JPL Horizons and other systems
+* [Create an orbit and ephemeris from scratch](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Orbit_and_ephemeris_from_scratch.ipynb), without an online service
 * [Transforming and propagating orbits](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Orbit.ipynb) using pyoorb
 * [Curating observational data](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Obs.ipynb)
 * [Querying observations reported to the Minor Planet Center](https://github.com/NASA-Planetary-Science/sbpy-tutorial/blob/master/notebooks/data/Obs.ipynb#Retrieving-observations-from-the-Minor-Planet-Center)
