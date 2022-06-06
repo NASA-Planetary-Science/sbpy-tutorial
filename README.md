@@ -6,6 +6,8 @@ This repository provide tutorials and materials used in workshops related to [sb
 
 ## Previous Workshops
 
+* **LSST Solar System Science Collaboration Sprint 2022**, virtual: June 6, 2022 UTC. 
+
 * **European Planetary Science Congress/Division for Planetary Science Joint Meeting ([EPSC/DPS](https://www.epsc-dps2019.eu/)) 2019**, Genève, Switzerland: Tuesday, September 17, 2019, 13:30 to 15:00 ([SMW1.22](https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34640), Room Ceres)
 
 * **Division for Planetary Science Meeting ([DPS](https://aas.org/meetings/dps50)) 2018**, Knoxville, Tennessee: Thursday, October 25, 4:30 pm to 7:00 pm (Room 301 D-E)
